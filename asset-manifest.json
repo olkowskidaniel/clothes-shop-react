@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/clothes-shop-react/static/css/main.a1594df6.css",
+    "main.js": "/clothes-shop-react/static/js/main.b0bf6593.js",
+    "static/js/787.552fe615.chunk.js": "/clothes-shop-react/static/js/787.552fe615.chunk.js",
+    "static/media/shopping-bag.svg": "/clothes-shop-react/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/clothes-shop-react/static/media/crown.207ae289b221bfaca0108507f9bb2f85.svg",
+    "index.html": "/clothes-shop-react/index.html",
+    "main.a1594df6.css.map": "/clothes-shop-react/static/css/main.a1594df6.css.map",
+    "main.b0bf6593.js.map": "/clothes-shop-react/static/js/main.b0bf6593.js.map",
+    "787.552fe615.chunk.js.map": "/clothes-shop-react/static/js/787.552fe615.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1594df6.css",
+    "static/js/main.b0bf6593.js"
+  ]
+}
